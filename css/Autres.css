@@ -1,0 +1,58 @@
+#a{
+	text-align: center;
+	color: white;
+  font-family: Lucida Handwriting;
+  background-color: #b34d4d;
+}
+h3{
+	margin-left: 450px;
+}
+
+.x{
+  margin-left: 600px;
+}
+#c{
+  margin-left: 600px;
+  color: #808080;
+  font-family: Lucida Calligraphy;
+}
+.t{
+  margin-left: 450px;
+}
+#o{
+  text-align: center;
+  color: #b34d4d;
+  font-family: MV Boli;
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #808080;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #b34d4d;
+}
+
+li a.active {
+  color: white;
+  background-color: #b34d4d;
+}
